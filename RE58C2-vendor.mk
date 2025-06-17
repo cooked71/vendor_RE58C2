@@ -8,9 +8,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/etc/audio_effects.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.conf \
     vendor/realme/RE58C2/proprietary/etc/temperature_profile/sys_high_temperature.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/temperature_profile/sys_high_temperature.xml \
-    vendor/realme/RE58C2/proprietary/lib64/libois_algorithm_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libois_algorithm_jni.so \
-    vendor/realme/RE58C2/proprietary/lib64/libremotedisplay.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libremotedisplay.so \
-    vendor/realme/RE58C2/proprietary/lib64/libstagefright_surface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface.so \
     vendor/realme/RE58C2/proprietary/odm/bin/CamDevSim:$(TARGET_COPY_OUT_ODM)/bin/CamDevSim \
     vendor/realme/RE58C2/proprietary/odm/bin/fm_tools:$(TARGET_COPY_OUT_ODM)/bin/fm_tools \
     vendor/realme/RE58C2/proprietary/odm/etc/audio/audio_policy_configuration.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/audio_policy_configuration.xml \
@@ -930,11 +927,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P032_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P032_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P064_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P064_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P128_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P128_1213.bin \
-    vendor/realme/RE58C2/proprietary/vendor/bin/aiactiver_testbench:$(TARGET_COPY_OUT_VENDOR)/bin/aiactiver_testbench \
-    vendor/realme/RE58C2/proprietary/vendor/bin/audiodumpclient:$(TARGET_COPY_OUT_VENDOR)/bin/audiodumpclient \
-    vendor/realme/RE58C2/proprietary/vendor/bin/btools:$(TARGET_COPY_OUT_VENDOR)/bin/btools \
-    vendor/realme/RE58C2/proprietary/vendor/bin/charge:$(TARGET_COPY_OUT_VENDOR)/bin/charge \
-    vendor/realme/RE58C2/proprietary/vendor/bin/charged:$(TARGET_COPY_OUT_VENDOR)/bin/charged \
     vendor/realme/RE58C2/proprietary/vendor/bin/connmgr:$(TARGET_COPY_OUT_VENDOR)/bin/connmgr \
     vendor/realme/RE58C2/proprietary/vendor/bin/connmgr_cli:$(TARGET_COPY_OUT_VENDOR)/bin/connmgr_cli \
     vendor/realme/RE58C2/proprietary/vendor/bin/cp_diskserver:$(TARGET_COPY_OUT_VENDOR)/bin/cp_diskserver \
