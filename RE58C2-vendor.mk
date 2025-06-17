@@ -8,9 +8,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/etc/audio_effects.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.conf \
     vendor/realme/RE58C2/proprietary/etc/temperature_profile/sys_high_temperature.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/temperature_profile/sys_high_temperature.xml \
-    vendor/realme/RE58C2/proprietary/lib/libois_algorithm_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libois_algorithm_jni.so \
-    vendor/realme/RE58C2/proprietary/lib/libremotedisplay.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libremotedisplay.so \
-    vendor/realme/RE58C2/proprietary/lib/libstagefright_surface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_surface.so \
     vendor/realme/RE58C2/proprietary/lib64/libois_algorithm_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libois_algorithm_jni.so \
     vendor/realme/RE58C2/proprietary/lib64/libremotedisplay.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libremotedisplay.so \
     vendor/realme/RE58C2/proprietary/lib64/libstagefright_surface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface.so \
