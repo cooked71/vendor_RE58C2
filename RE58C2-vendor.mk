@@ -927,14 +927,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P032_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P032_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P064_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P064_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P128_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P128_1213.bin \
-    vendor/realme/RE58C2/proprietary/vendor/bin/connmgr:$(TARGET_COPY_OUT_VENDOR)/bin/connmgr \
-    vendor/realme/RE58C2/proprietary/vendor/bin/connmgr_cli:$(TARGET_COPY_OUT_VENDOR)/bin/connmgr_cli \
-    vendor/realme/RE58C2/proprietary/vendor/bin/cp_diskserver:$(TARGET_COPY_OUT_VENDOR)/bin/cp_diskserver \
-    vendor/realme/RE58C2/proprietary/vendor/bin/cp_dump_dbg:$(TARGET_COPY_OUT_VENDOR)/bin/cp_dump_dbg \
-    vendor/realme/RE58C2/proprietary/vendor/bin/cplogctl:$(TARGET_COPY_OUT_VENDOR)/bin/cplogctl \
-    vendor/realme/RE58C2/proprietary/vendor/bin/dcxsrv:$(TARGET_COPY_OUT_VENDOR)/bin/dcxsrv \
-    vendor/realme/RE58C2/proprietary/vendor/bin/engpc:$(TARGET_COPY_OUT_VENDOR)/bin/engpc \
-    vendor/realme/RE58C2/proprietary/vendor/bin/engpcctl:$(TARGET_COPY_OUT_VENDOR)/bin/engpcctl \
     vendor/realme/RE58C2/proprietary/vendor/bin/enhance_test:$(TARGET_COPY_OUT_VENDOR)/bin/enhance_test \
     vendor/realme/RE58C2/proprietary/vendor/bin/gpsd:$(TARGET_COPY_OUT_VENDOR)/bin/gpsd \
     vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.1-service.unisoc:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.1-service.unisoc \
