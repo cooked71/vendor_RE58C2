@@ -927,14 +927,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P032_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P032_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P064_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P064_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P128_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P128_1213.bin \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.gatekeeper@1.0-service.trusty:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.gatekeeper@1.0-service.trusty \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.graphics.allocator@4.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.graphics.allocator@4.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.media.c2@1.1-unisoc-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.media.c2@1.1-unisoc-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.neuralnetworks@1.3-service-armnn-gpu:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.neuralnetworks@1.3-service-armnn-gpu \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.rebootescrow-service.default:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.rebootescrow-service.default \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.security.keymint@2.0-unisoc.service.trusty:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.security.keymint@2.0-unisoc.service.trusty \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.wifi@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.wifi@1.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/hostapd:$(TARGET_COPY_OUT_VENDOR)/bin/hw/hostapd \
     vendor/realme/RE58C2/proprietary/vendor/bin/hw/urild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/urild \
     vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.oppo.engnative.engineer@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.oppo.engnative.engineer@1.0-service \
     vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.biometrics.face-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.biometrics.face-service \
