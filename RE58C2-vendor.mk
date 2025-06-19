@@ -653,7 +653,8 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_jpeg_v1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_jpeg_v1.0.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_ki_ums9230_13_p00.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_ki_ums9230_13_p00.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_mfnr4_v1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_mfnr4_v1.0.so \
-    vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_otp_ums9230_13_p00.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_otp_ums9230_13_p00.so \
+    vendor/realme/RE58C2/proprietary/odm/lib64    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.drm-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm-service.widevine \
+/libcds_if_otp_ums9230_13_p00.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_otp_ums9230_13_p00.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_pm.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_pm.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_sensor_config.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_sensor_config.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_smart.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_smart.so \
@@ -927,10 +928,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P032_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P032_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P064_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P064_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P128_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P128_1213.bin \
-    vendor/realme/RE58C2/proprietary/vendor/bin/enhance_test:$(TARGET_COPY_OUT_VENDOR)/bin/enhance_test \
-    vendor/realme/RE58C2/proprietary/vendor/bin/gpsd:$(TARGET_COPY_OUT_VENDOR)/bin/gpsd \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.1-service.unisoc:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.1-service.unisoc \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.drm-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm-service.widevine \
     vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.gatekeeper@1.0-service.trusty:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.gatekeeper@1.0-service.trusty \
     vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.graphics.allocator@4.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.graphics.allocator@4.0-service \
     vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.media.c2@1.1-unisoc-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.media.c2@1.1-unisoc-service \
