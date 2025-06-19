@@ -927,13 +927,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P032_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P032_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P064_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P064_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P128_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P128_1213.bin \
-    vendor/realme/RE58C2/proprietary/vendor/bin/idlestat:$(TARGET_COPY_OUT_VENDOR)/bin/idlestat \
-    vendor/realme/RE58C2/proprietary/vendor/bin/iwnpi:$(TARGET_COPY_OUT_VENDOR)/bin/iwnpi \
-    vendor/realme/RE58C2/proprietary/vendor/bin/mmc_ffu:$(TARGET_COPY_OUT_VENDOR)/bin/mmc_ffu \
-    vendor/realme/RE58C2/proprietary/vendor/bin/modem_control:$(TARGET_COPY_OUT_VENDOR)/bin/modem_control \
-    vendor/realme/RE58C2/proprietary/vendor/bin/modem_ctrl_dbg:$(TARGET_COPY_OUT_VENDOR)/bin/modem_ctrl_dbg \
-    vendor/realme/RE58C2/proprietary/vendor/bin/nvmerge:$(TARGET_COPY_OUT_VENDOR)/bin/nvmerge \
-    vendor/realme/RE58C2/proprietary/vendor/bin/phasecheckserver:$(TARGET_COPY_OUT_VENDOR)/bin/phasecheckserver \
     vendor/realme/RE58C2/proprietary/vendor/bin/power/backlight/readme:$(TARGET_COPY_OUT_VENDOR)/bin/power/backlight/readme \
     vendor/realme/RE58C2/proprietary/vendor/bin/power/cpu/dvfs/readme:$(TARGET_COPY_OUT_VENDOR)/bin/power/cpu/dvfs/readme \
     vendor/realme/RE58C2/proprietary/vendor/bin/power/cpu/fix_freq/fix_cpu_freq:$(TARGET_COPY_OUT_VENDOR)/bin/power/cpu/fix_freq/fix_cpu_freq \
@@ -968,26 +961,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/vendor/bin/power/tops/readme:$(TARGET_COPY_OUT_VENDOR)/bin/power/tops/readme \
     vendor/realme/RE58C2/proprietary/vendor/bin/power/tops/tops:$(TARGET_COPY_OUT_VENDOR)/bin/power/tops/tops \
     vendor/realme/RE58C2/proprietary/vendor/bin/power/total/readme:$(TARGET_COPY_OUT_VENDOR)/bin/power/total/readme \
-    vendor/realme/RE58C2/proprietary/vendor/bin/refnotify:$(TARGET_COPY_OUT_VENDOR)/bin/refnotify \
-    vendor/realme/RE58C2/proprietary/vendor/bin/rpmbserver:$(TARGET_COPY_OUT_VENDOR)/bin/rpmbserver \
-    vendor/realme/RE58C2/proprietary/vendor/bin/slogmodem_vendor:$(TARGET_COPY_OUT_VENDOR)/bin/slogmodem_vendor \
-    vendor/realme/RE58C2/proprietary/vendor/bin/sprdstorageproxyd:$(TARGET_COPY_OUT_VENDOR)/bin/sprdstorageproxyd \
-    vendor/realme/RE58C2/proprietary/vendor/bin/srtd:$(TARGET_COPY_OUT_VENDOR)/bin/srtd \
-    vendor/realme/RE58C2/proprietary/vendor/bin/systemDebuggerd:$(TARGET_COPY_OUT_VENDOR)/bin/systemDebuggerd \
-    vendor/realme/RE58C2/proprietary/vendor/bin/tee_rpc:$(TARGET_COPY_OUT_VENDOR)/bin/tee_rpc \
-    vendor/realme/RE58C2/proprietary/vendor/bin/thermald:$(TARGET_COPY_OUT_VENDOR)/bin/thermald \
-    vendor/realme/RE58C2/proprietary/vendor/bin/tinycap:$(TARGET_COPY_OUT_VENDOR)/bin/tinycap \
-    vendor/realme/RE58C2/proprietary/vendor/bin/tinyhostless:$(TARGET_COPY_OUT_VENDOR)/bin/tinyhostless \
-    vendor/realme/RE58C2/proprietary/vendor/bin/tinypcminfo:$(TARGET_COPY_OUT_VENDOR)/bin/tinypcminfo \
-    vendor/realme/RE58C2/proprietary/vendor/bin/tinyplay:$(TARGET_COPY_OUT_VENDOR)/bin/tinyplay \
-    vendor/realme/RE58C2/proprietary/vendor/bin/tsupplicant:$(TARGET_COPY_OUT_VENDOR)/bin/tsupplicant \
-    vendor/realme/RE58C2/proprietary/vendor/bin/tuica:$(TARGET_COPY_OUT_VENDOR)/bin/tuica \
-    vendor/realme/RE58C2/proprietary/vendor/bin/uniber:$(TARGET_COPY_OUT_VENDOR)/bin/uniber \
-    vendor/realme/RE58C2/proprietary/vendor/bin/wcn_chr:$(TARGET_COPY_OUT_VENDOR)/bin/wcn_chr \
-    vendor/realme/RE58C2/proprietary/vendor/bin/wifisar_realme:$(TARGET_COPY_OUT_VENDOR)/bin/wifisar_realme \
-    vendor/realme/RE58C2/proprietary/vendor/bin/yloglite:$(TARGET_COPY_OUT_VENDOR)/bin/yloglite \
-    vendor/realme/RE58C2/proprietary/vendor/bin/yloglitectl:$(TARGET_COPY_OUT_VENDOR)/bin/yloglitectl \
-    vendor/realme/RE58C2/proprietary/vendor/bin/yloglitekat:$(TARGET_COPY_OUT_VENDOR)/bin/yloglitekat \
     vendor/realme/RE58C2/proprietary/vendor/build_EEA_3760.prop:$(TARGET_COPY_OUT_VENDOR)/build_EEA_3760.prop \
     vendor/realme/RE58C2/proprietary/vendor/build_EEA_3761.prop:$(TARGET_COPY_OUT_VENDOR)/build_EEA_3761.prop \
     vendor/realme/RE58C2/proprietary/vendor/build_EEA_3765.prop:$(TARGET_COPY_OUT_VENDOR)/build_EEA_3765.prop \
