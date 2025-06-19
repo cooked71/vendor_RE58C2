@@ -653,8 +653,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_jpeg_v1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_jpeg_v1.0.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_ki_ums9230_13_p00.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_ki_ums9230_13_p00.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_mfnr4_v1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_mfnr4_v1.0.so \
-    vendor/realme/RE58C2/proprietary/odm/lib64    vendor/realme/RE58C2/proprietary/vendor/bin/hw/android.hardware.drm-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm-service.widevine \
-/libcds_if_otp_ums9230_13_p00.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_otp_ums9230_13_p00.so \
+    vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_otp_ums9230_13_p00.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_otp_ums9230_13_p00.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_pm.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_pm.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_sensor_config.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_sensor_config.so \
     vendor/realme/RE58C2/proprietary/odm/lib64/libcds_if_smart.so:$(TARGET_COPY_OUT_ODM)/lib64/libcds_if_smart.so \
