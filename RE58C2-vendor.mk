@@ -927,34 +927,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P032_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P032_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P064_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P064_1213.bin \
     vendor/realme/RE58C2/proprietary/vendor/bin/Y2P128_1213.bin:$(TARGET_COPY_OUT_VENDOR)/bin/Y2P128_1213.bin \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/urild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/urild \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.oppo.engnative.engineer@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.oppo.engnative.engineer@1.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.biometrics.face-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.biometrics.face-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.boot@1.2-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.boot@1.2-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.broadcastradio@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.broadcastradio@2.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.commondcs@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.commondcs@1.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.connmgr@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.connmgr@1.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.cplog_svc-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.cplog_svc-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.enhance-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.enhance-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.fingerprintmmi-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.fingerprintmmi-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.gnss@2.2-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.gnss@2.2-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.hdcp-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.hdcp-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.lights-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.lights-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.log-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.log-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.memtrack-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.memtrack-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.network-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.network-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.network@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.network@1.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.oemlock-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.oemlock-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.performance@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.performance@1.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.soter-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.soter-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.thermal@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.thermal@2.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.trusty-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.trusty-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.tui-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.tui-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.vibrator-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.vibrator-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.sprd.hardware.wcn@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.sprd.hardware.wcn@1.0-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.unisoc.hardware.ai_engine-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.unisoc.hardware.ai_engine-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/vendor.unisoc.hardware.power-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.unisoc.hardware.power-service \
-    vendor/realme/RE58C2/proprietary/vendor/bin/hw/wpa_supplicant:$(TARGET_COPY_OUT_VENDOR)/bin/hw/wpa_supplicant \
     vendor/realme/RE58C2/proprietary/vendor/bin/idlestat:$(TARGET_COPY_OUT_VENDOR)/bin/idlestat \
     vendor/realme/RE58C2/proprietary/vendor/bin/iwnpi:$(TARGET_COPY_OUT_VENDOR)/bin/iwnpi \
     vendor/realme/RE58C2/proprietary/vendor/bin/mmc_ffu:$(TARGET_COPY_OUT_VENDOR)/bin/mmc_ffu \
