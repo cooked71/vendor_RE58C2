@@ -205,14 +205,7 @@ prebuilt_etc_xml {
 	soc_specific: true,
 }
 
-prebuilt_etc_xml {
-	name: "enhance-default.xml",
-	owner: "realme",
-	src: "proprietary/vendor/etc/vintf/manifest/enhance-default.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
+
 
 prebuilt_etc_xml {
 	name: "face-default.xml",
