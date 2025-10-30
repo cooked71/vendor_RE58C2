@@ -70,7 +70,7 @@ dex_import {
 	soc_specific: true,
 }
 
-prebuilt_etc_xml {
+//prebuilt_etc_xml {
 // 	name: "ai_engine-default.xml",
 // 	owner: "realme",
 // 	src: "proprietary/vendor/etc/vintf/manifest/ai_engine-default.xml",
